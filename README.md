@@ -10,7 +10,7 @@ Start with `npm i` then connect to MySql databases and use `source db/schema.sql
 
 This is the link and gif to a walkthrough video that demonstrates its functionality.
 
-[Click to see Walkthrough Video]()
+[Click to see Walkthrough Video](https://drive.google.com/file/d/1oJeWxCwwQBJM8k7WH5ysqO6Wu65gFYUD/view)
 
 ![Walkthrough Gif of the application]()
 
